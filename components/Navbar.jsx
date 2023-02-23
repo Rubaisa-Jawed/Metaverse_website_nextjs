@@ -21,7 +21,7 @@ const Navbar = () => (
       />
 
       <h2 className="font-extrabold text-[24px] loading-[30px] text-white">
-        DECYPHER LABS
+        METAVERSUS
       </h2>
 
       <img
