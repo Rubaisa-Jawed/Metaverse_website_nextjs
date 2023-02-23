@@ -21,8 +21,13 @@ const Navbar = () => (
     />
 
     <h2 className="font-extrabold text-[24px] loading-[30px] text-white">
-      DECYPHER LAB
+      DECYPHER LABS
     </h2>
+
+    <img 
+    src="./menu.svg"
+    alt="menu"
+    className="w-[24px] h-[24px] object-contain" />
 
   </div>
 </motion.nav>
